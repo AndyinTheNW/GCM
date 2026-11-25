@@ -1,4 +1,70 @@
-# Bateria Extra — Aula 01: CF/88 (Arts. 1º ao 5º e Art. 144)
+# Simulado 01 — Aula 01: CF/88 (Arts. 1º ao 5º e Art. 144)
+
+**10 questões • Estilo ABCP (sem o gabarito abaixo para você responder sem spoiler)**
+
+**1. Assinale a alternativa que apresenta exclusivamente fundamentos da República Federativa do Brasil previstos no Art. 1º da Constituição Federal:**
+A) Soberania, independência nacional e cidadania.
+B) Dignidade da pessoa humana, pluralismo político e prevalência dos direitos humanos.
+C) Cidadania, dignidade da pessoa humana e valores sociais do trabalho e da livre iniciativa.
+D) Autodeterminação dos povos, soberania e pluripartidarismo.
+
+**2. Conforme o Art. 3º da Constituição Federal, constitui objetivo fundamental da República Federativa do Brasil:**
+A) Reduzir a pobreza e a marginalização e erradicar as desigualdades sociais e regionais.
+B) Erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais.
+C) Conceder asilo político e defender a paz mundial.
+D) Garantir a separação independente e harmônica entre os três Poderes da União.
+
+**3. Durante uma patrulha noturna, às 23h30, agentes recebem a informação de que há um mandado de busca e apreensão expedido por juiz contra um morador de determinada residência. Não havendo situação de flagrante delito, desastre, pedido de socorro nem consentimento do morador, a entrada na residência naquele horário:**
+A) É permitida, pois a determinação judicial prevalece em qualquer horário.
+B) É permitida apenas se acompanhada de duas testemunhas.
+C) É proibida, pois o ingresso sem consentimento por determinação judicial só pode ocorrer durante o dia.
+D) É permitida apenas se o delegado de polícia autorizar expressamente por escrito.
+
+**4. Sobre o direito de reunião assegurado no Art. 5º da Constituição Federal, assinale a afirmação correta:**
+A) Depende de autorização prévia da autoridade municipal competente.
+B) Pode ocorrer pacificamente, sem armas, em locais abertos ao público, desde que não frustre outra reunião anteriormente convocada para o mesmo local, sendo exigido apenas prévio aviso à autoridade competente.
+C) Permite o porte de armas brancas caso a manifestação ocorra em via pública durante o período diurno.
+D) Exige que o grupo organizador seja formalmente registrado como associação há pelo menos um ano.
+
+**5. De acordo com o Art. 5º da Constituição Federal, são considerados crimes inafiançáveis e imprescritíveis:**
+A) A tortura e o tráfico ilícito de entorpecentes.
+B) Os crimes hediondos e o terrorismo.
+C) A prática do racismo e a ação de grupos armados, civis ou militares, contra a ordem constitucional e o Estado Democrático.
+D) O racismo, a tortura e os crimes hediondos.
+
+**6. No tocante às penas vedadas pela Constituição Federal, assinale a única alternativa que admite exceção expressa no texto constitucional:**
+A) Pena de trabalhos forçados, nos casos de crimes hediondos.
+B) Pena de banimento, para estrangeiros residentes que atentem contra a segurança nacional.
+C) Pena de caráter perpétuo, em caso de reincidência em crime de terrorismo.
+D) Pena de morte, em caso de guerra declarada.
+
+**7. Um cidadão deseja retificar informações incorretas sobre sua própria vida pessoal registradas em um banco de dados de caráter público. Qual remédio constitucional gratuito é o instrumento adequado para essa finalidade?**
+A) Habeas Corpus.
+B) Habeas Data.
+C) Mandado de Injunção.
+D) Ação Popular.
+
+**8. Qual legitimado pode propor Ação Popular visando anular ato lesivo ao patrimônio público ou à moralidade administrativa?**
+A) Qualquer pessoa física ou jurídica residente ou sediada no Brasil.
+B) Apenas o Ministério Público e a Defensoria Pública.
+C) Qualquer cidadão, assim entendido o brasileiro no pleno gozo de seus direitos políticos.
+D) Qualquer estrangeiro em trânsito no território nacional.
+
+**9. De acordo com o Art. 144 da Constituição Federal, a segurança pública é:**
+A) Dever exclusivo do Estado e responsabilidade exclusiva das forças policiais.
+B) Dever do Estado, direito e responsabilidade de todos, exercida para a preservação da ordem pública e da incolumidade das pessoas e do patrimônio.
+C) Responsabilidade exclusiva da União e dos Estados, não cabendo aos Municípios qualquer atuação.
+D) Dever da sociedade e faculdade do Estado, voltada apenas à repressão criminal.
+
+**10. Segundo o § 8º do Art. 144 da Constituição Federal, em relação às Guardas Municipais, é correto afirmar que os Municípios:**
+A) Deverão obrigatoriamente constituir guardas municipais com atribuição de polícia judiciária.
+B) Poderão constituir guardas municipais subordinadas ao Comando da Polícia Militar estadual.
+C) Poderão constituir guardas municipais destinadas à proteção de seus bens, serviços e instalações, conforme dispuser a lei.
+D) Deverão constituir guardas municipais exclusivamente em cidades com população superior a cinquenta mil habitantes.
+
+---
+
+# Extra — Aula 01: CF/88 (Arts. 1º ao 5º e Art. 144)
 
 **10 questões inéditas (sem repetir a 1ª bateria) • Padrão ABCP**
 
