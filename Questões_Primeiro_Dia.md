@@ -1,6 +1,6 @@
 # Simulado 01 — Aula 01: CF/88 (Arts. 1º ao 5º e Art. 144)
 
-**10 questões • Estilo ABCP (sem o gabarito abaixo para você responder sem spoiler)**
+**10 questões • Estilo ABCP 
 
 **1. Assinale a alternativa que apresenta exclusivamente fundamentos da República Federativa do Brasil previstos no Art. 1º da Constituição Federal:**
 A) Soberania, independência nacional e cidadania.
